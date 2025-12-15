@@ -48,6 +48,7 @@ body {
   font-size: 14px;
 }
 .stats {
+  
   display: flex;
   justify-content: space-around;
   padding: 20px 0;
